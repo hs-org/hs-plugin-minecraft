@@ -1,0 +1,6 @@
+api:
+  endpoint: https://api.happyshop.net
+  credentials:
+    store: <your-store-token>
+    access-key: <your-api-access-key>
+    secret: <your-api-secret>
