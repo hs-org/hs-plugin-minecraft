@@ -1,1 +1,6 @@
-main: me.devnatan.hsorg.
+main: me.devnatan.hsorg.plugin.mc.bukkit.HSBukitCore
+name: HappyShop
+version: 0.1.0
+author: DevNatan
+website: https://github.com/hs-org/hs-plugin-minecraft
+description: Universal plugin for integration with Minecraft servers.
